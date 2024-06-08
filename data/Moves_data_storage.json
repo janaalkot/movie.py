@@ -1,0 +1,20 @@
+{
+  "five feet apart": {
+    "id": "2019",
+    "discription": "A pair of teenagers with cystic fibrosis meet in a hospital and fall in love, though their disease means they must avoid close physical contact",
+    "sets": 20,
+    "price": "80"
+  },
+  "lucy": {
+    "id": "2014",
+    "discription": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic",
+    "sets": 20,
+    "price": "30"
+  },
+  "wonder land": {
+    "id": "2020",
+    "discription": "Aly seeks solace in a bizarre online virtual world called Wonder.land, where she becomes Alice, and meets strangely familiar characters. Musical inspired by the books by Lewis Carroll",
+    "sets": 40,
+    "price": "30"
+  }
+}
